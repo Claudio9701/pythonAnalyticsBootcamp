@@ -24,3 +24,4 @@ El archivo de datos de Disponibilidad de Camas UCI pesa más del limite permitid
 ## Referencias de apoyo
 
 - [Git Cheatsheet](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
+- [GeoGPS Perú Datos Geográficos gratuitos](https://www.geogpsperu.com/)
