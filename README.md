@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código y los datos utlizados en mi primer proyecto de data analytics con Python realizado en el Bootcamp de Hackspace 2021.
 
-## Otra información
+## Tareas Pendientes
 
 El estado de este repositorio esta aún en progreso ... Tenemos las siguientes tareas pendientes:
 
@@ -14,6 +14,8 @@ El estado de este repositorio esta aún en progreso ... Tenemos las siguientes t
 1. Hacer mi primer reporte exploratorio de datos y subirlo a github ⚪️
 1. Documentar cada paso de mi proceso de aprendizaje ⚪️
 1. Colocar fuentes de referencia que me ayudaron a realizar mi proyecto ⚪️
+
+> [Desarrollo del proyecto durante las sesiones](https://docs.google.com/presentation/d/e/2PACX-1vQr9_KlLcPf27gbPQoqbHuIklfT8XVCcwFA19gkUh_AO9r7Xsesa57P0p8KXuvkDWtw5XbzL3-37Gj7/pub?start=false&loop=false&delayms=3000)
 
 ## Sobre los datos utilizados en este proyecto
 
