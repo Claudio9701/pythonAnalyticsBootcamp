@@ -10,8 +10,8 @@ El estado de este repositorio esta aún en progreso ... Tenemos las siguientes t
 1. Crear repositorio remoto utilizando [github cli](https://cli.github.com/) y enlazarlo con el local ✅ 
 1. Hacer nuestro primer commit de un archivo readme ✅ 
 1. Elegir mi dataset de prueba para el proyecto y subirlo a github (si es posible) ✅
-1. Hacer mi primer notebook de exploracion de datos y subirlo a github ⚪️
-1. Hacer mi primer reporte exploratorio de datos y subirlo a github ⚪️
+1. Hacer mi primer notebook de exploracion de datos y subirlo a github ✅
+1. Hacer mi primer reporte exploratorio de datos y subirlo a github ✅
 1. Documentar cada paso de mi proceso de aprendizaje ⚪️
 1. Colocar fuentes de referencia que me ayudaron a realizar mi proyecto ⚪️
 
